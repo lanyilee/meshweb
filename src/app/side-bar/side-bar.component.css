@@ -5,3 +5,36 @@
 .divCenter {
     text-align: center;
 }
+
+.sidebarnav {
+    list-style:none;
+    margin-left:-15px;
+}
+.sidebar-item {
+    margin-top: 20px;
+    margin-left:30px;
+    
+}
+
+.sidebar-link {
+    text-decoration:none;
+    font-size: 18px;
+}
+.sidebar-link span {
+    margin-left:10px;
+}
+
+.link-top {
+    width: 60%;
+    height: 1px;
+    border-top: solid #ACC0D8 1px;
+    margin-top:5px;
+    margin-left:10px;
+}
+
+.link-right {
+    margin-top: -14px;
+    height: 950px;
+    float: right;
+    border-right: solid #ACC0D8 1px;
+}
